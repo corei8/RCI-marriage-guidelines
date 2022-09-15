@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {1}General}{2}{}%
+\contentsline {section}{\numberline {1.1}Social Media}{2}{}%
+\contentsline {section}{\numberline {1.2}Fornication}{2}{}%
+\contentsline {chapter}{\numberline {2}Dresses}{3}{}%
+\contentsline {section}{\numberline {2.1}Toleration}{3}{}%
+\contentsline {section}{\numberline {2.2}Forbidden Garments}{3}{}%
+\contentsline {section}{\numberline {2.3}Shawls, etc.}{3}{}%
+\contentsline {section}{\numberline {2.4}Lace $=$ Nothing}{3}{}%
+\contentsline {section}{\numberline {2.5}Neckline}{4}{}%
+\contentsline {section}{\numberline {2.6}Back}{4}{}%
+\contentsline {section}{\numberline {2.7}Straps}{4}{}%
+\contentsline {section}{\numberline {2.8}Skirt}{4}{}%
+\contentsline {section}{\numberline {2.9}Length}{4}{}%
+\contentsline {chapter}{\numberline {3}Bride}{5}{}%
+\contentsline {section}{\numberline {3.1}Dress}{5}{}%
+\contentsline {section}{\numberline {3.2}Veil}{5}{}%
+\contentsline {chapter}{\numberline {4}Groom}{6}{}%
+\contentsline {chapter}{\numberline {5}Bridal Party}{7}{}%
+\contentsline {section}{\numberline {5.1}Dress}{7}{}%
+\contentsline {chapter}{\numberline {6}In the Church}{8}{}%
+\contentsline {section}{\numberline {6.1}Dress Code}{8}{}%
+\contentsline {section}{\numberline {6.2}Ceremony}{8}{}%
+\contentsline {chapter}{\numberline {7}Reception}{9}{}%
+\contentsline {section}{\numberline {7.1}Music}{9}{}%
